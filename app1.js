@@ -30,6 +30,7 @@ app.get('/ejs',(req,res) => {
     })
 })
 
+// Delete 
 
 
 app.get('/delete/:id',(req,res) => {
